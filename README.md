@@ -14,4 +14,4 @@
 ---
 
 ## Challenges
-I arrived till the last stage but once I used Docker Hub Images with Docker Compose the page to PetStore shows failed to add order.
+had error to run it with images on Docker hub.
